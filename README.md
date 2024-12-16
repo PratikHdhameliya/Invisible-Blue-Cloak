@@ -44,7 +44,7 @@ This project demonstrates a fun and engaging computer vision application that us
 - Adjust the `iterations` for morphological operations (`morphologyEx` and `dilate`) to refine the mask.
 
 ## **Demo**
-<video controls src="Recording 2024.mp4" title="Title"></video>
+<video controls src="https://github.com/PratikHdhameliya/Invisible-Blue-Cloak/blob/main/Recording%202024.mp4" title="Title"></video>
 
 ## **Contributing**
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
