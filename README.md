@@ -44,7 +44,7 @@ This project demonstrates a fun and engaging computer vision application that us
 - Adjust the `iterations` for morphological operations (`morphologyEx` and `dilate`) to refine the mask.
 
 ## **Demo**
-https://github.com/
+<video controls src="Recording 2024.mp4" title="Title"></video>
 
 ## **Contributing**
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
